@@ -1,0 +1,31 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+1) Use variables VAR1, VAR2, and SUM
+2) Capture input for VAR1, VAR2
+3) Add input for VAR1, VAR2 to SUM
+4) Show result of SUM
+
+
+// Exercise 2: Check if a Number is Even or Odd
+
+1) Input number
+2) If Number % 2 equals 0, Output "Your number is even."
+3) Else, Output "Your number is odd."
+
+
+// Exercise 3: 
+Write pseudo code that will perform the following    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+// Read Input for NUM1,NUM2,NUM3,NUM4,NUM5
+// Add NUM1-NUM5, place results as SUM
+// Modulo SUM by 5 for average, and display results as "AVERAGE"
+// Set NUM1 as MIN, set NUM5 as MAX
+// If results is < NUM1, Then set as "MIN"
+// If results is > NUM5, Then set as "MAX
+
+-- END --
